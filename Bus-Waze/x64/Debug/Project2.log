@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+C:\Users\Pc\source\New folder (116)\Project2\Project2\Project2.cpp(119,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pc\source\New folder (116)\Project2\Project2\Project2.cpp(1036,9): warning C4101: 'c': unreferenced local variable
+C:\Users\Pc\source\New folder (116)\Project2\Project2\Project2.cpp(1213,9): warning C4101: 'a': unreferenced local variable
+  Project2.vcxproj -> C:\Users\Pc\source\New folder (116)\Project2\x64\Debug\Project2.exe
